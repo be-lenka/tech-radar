@@ -1,0 +1,11 @@
+---
+title: "DDD"
+ring: adopt
+quadrant: tools
+featured: true
+tags: [Architecture, Documentation]
+---
+
+[Domain-Driven Design (DDD)](https://www.domainlanguage.com/ddd/) is a software design approach focusing on modeling software to match a domain according to input from domain experts.
+
+Be Lenka uses DDD to design software that accurately reflects the complex business logic and requirements, ensuring alignment with business goals. It provides a methodology that is key to Technical Solution Design and assists heavily with creating robust data structures.
