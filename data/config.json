@@ -1,6 +1,6 @@
 {
   "basePath": "/",
-  "baseUrl": "https://tech.belenka.dev",
+  "baseUrl": "https://be-lenka.github.io/tech-radar/",
   "editUrl": "https://github.com/be-lenka/tech-radar/tree/main/data/radar/{release}/{id}.md",
   "logoFile": "logo.svg",
   "toggles": {
