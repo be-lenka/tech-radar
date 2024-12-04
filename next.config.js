@@ -1,5 +1,5 @@
 const config = require("./data/config.json");
-const basePath = "/"; //config.basePath && config.basePath !== "/" ? config.basePath : "";
+const basePath = config.basePath && config.basePath !== "/" ? config.basePath : "";
 
 /** @type {import("next").NextConfig} */
 const nextConfig = {
