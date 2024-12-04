@@ -2,6 +2,18 @@
 
 A static site generator for Be Lenka Technology Radar.
 
+![obrázok](https://github.com/user-attachments/assets/1e097efe-ce4d-40c7-90fd-4b9b494e3785)
+
+## Instalation
+
+```bash
+yarn install
+
+yarn build:data
+
+yarn dev
+```
+
 ## Configuration
 
 ### Configure the radar
