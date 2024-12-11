@@ -4,15 +4,24 @@ A static site generator for Be Lenka Technology Radar.
 
 ![obrázok](https://github.com/user-attachments/assets/1e097efe-ce4d-40c7-90fd-4b9b494e3785)
 
-## Instalation
+## Installation
 
-```bash
-yarn install
+To install and set up the Be Lenka Technology Radar, follow these steps:
 
-yarn build:data
+1. **Install dependencies:**
+   ```bash
+   yarn install
+   ```
 
-yarn dev
-```
+2. **Build the data:**
+   ```bash
+   yarn build:data
+   ```
+
+3. **Start the development server:**
+   ```bash
+   yarn dev
+   ```
 
 ## Configuration
 
